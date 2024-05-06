@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![input](https://github.com/CynthiaMehul/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150319444/b9939ba2-5d7c-4298-a9b5-a748a57468af)
+
 
 ### Output:
+![output](https://github.com/CynthiaMehul/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150319444/23ff6a9c-b303-4f12-bb2f-5c7b2e2da7c7)
 
 
-### Name:
-### Register Number:
+### Name: Cynthia Mehul
+### Register Number: 212223240020
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
